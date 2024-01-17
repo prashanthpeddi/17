@@ -1,0 +1,23 @@
+h1{
+    color: blueviolet;
+    background-color: greenyellow;
+    text-align: center;
+}
+h2{
+    color: orange;
+    font-style: italic;
+}
+p{
+    color: orangered;
+    margin: auto;
+    border: 2px;
+    padding: 20px;
+
+}
+ol{
+    color: palevioletred;
+    
+}
+body{
+    background-color: rgb(17, 38, 16);
+}
